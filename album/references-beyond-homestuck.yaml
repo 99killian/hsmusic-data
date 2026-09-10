@@ -2050,14 +2050,6 @@ URLs:
 - https://music.youtube.com/playlist?list=OLAK5uy_k9Le8OItb5pXtunkKE6S8Hf9q3XGTphrA
 - https://music.apple.com/album/aint-nothin-like-a-funky-beat/1440947919?i=1440948140
 ---
-Track: Alf
-Artists:
-- Alf Clausen
-- Tom Kramer
-Duration: 1:11
-URLs:
-- https://www.youtube.com/watch?v=z5VFngsQPok
----
 Track: All American Badass
 # Official Bandcamp release
 # Reference:
@@ -7945,6 +7937,15 @@ Duration: 4:19
 URLs:
 - https://www.youtube.com/watch?v=w5OUAY1j3gQ
 #Non. english,. lyrics. not included on WIki yet.
+---
+Track: Alf
+Artists:
+- ALF
+- Alf Clausen
+- Tom Kramer
+Duration: 1:11
+URLs:
+- https://www.youtube.com/watch?v=z5VFngsQPok
 ---
 Track: ANGEL ATTACK
 # Reference:

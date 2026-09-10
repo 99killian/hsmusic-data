@@ -2310,16 +2310,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/42ebcf97-cc31-44be-97bf-1f0a5fd4b7fa
 - https://www.youtube.com/watch?v=19ZdAZO9FvU
 ---
-Track: Battle in the Skies (Ride of the Valkyries)
-# Reference:
-#   https://rateyourmusic.com/release/unauth/justin-luchter/mata-nui-the-online-game-original-soundtrack/
-Artists:
-- Bionicle
-- Justin Luchter
-Duration: 5:13
-URLs:
-- https://www.youtube.com/watch?v=W3bxiPKWCzU
----
 Track: Battle Theme (Yūyūki)
 Directory: battle-theme-yuyuki
 # Reference:
@@ -6174,22 +6164,6 @@ URLs:
 - https://m.nintendo.com/shared/en-US/US/tracks/3a653369-9c75-4c8d-bb28-618a3470b8f4
 - https://www.youtube.com/watch?v=tlSWNXSJM8o
 ---
-Track: Redial
-Directory: redial-bomberman-hero
-Always Reference By Directory: true
-# JP: redial
-# Official release:
-#   "Bomberman Hero" Original Soundtrack
-#   ボンバーマンヒーロー オリジナル・サウンドトラック
-# Reference:
-#   https://vgmdb.net/album/270
-Artists:
-- Bomberman
-- Jun Chikuma
-Duration: 2:14
-URLs:
-- https://www.youtube.com/watch?v=nPb2xhiyBXE
----
 Track: The Refiner's Fire
 # Official release:
 #   Hyper Light Drifter
@@ -6804,14 +6778,6 @@ URLs:
 - https://www.youtube.com/watch?v=QMXmQkfNpGs
 Referenced Tracks:
 - Galactic Nova
----
-Track: Space Pirates
-Artists:
-- Castle Crashers
-- Waterflame
-Duration: 2:59
-URLs:
-- https://waterflame.bandcamp.com/track/space-pirates
 ---
 Track: Spiral Mountain
 # Reference:
@@ -15858,6 +15824,12 @@ Artists:
 - Traditional
 URLs:
 - https://www.youtube.com/watch?v=It7MrzMzMQ8
+---
+Track: Ride of the Valkyries
+Artists:
+- Richard Wagner
+URLs:
+- https://www.youtube.com/watch?v=GGU1P6lBW6Q
 ---
 Track: Rondo Alla Turca
 Artists:

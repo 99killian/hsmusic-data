@@ -3034,15 +3034,6 @@ Duration: 2:34
 URLs:
 - https://www.youtube.com/watch?v=7oO7QC32Wfs
 ---
-Track: CRAZYBUS Title Screen
-# No official release
-Artists:
-- CRAZYBUS
-- Tom Scripts
-Duration: 3:49
-URLs:
-- https://www.youtube.com/watch?v=sC0cvwnG0Ik
----
 Track: Credit Sound (Mappy)
 # Reference:
 #   https://vgmdb.net/album/16431
@@ -3291,14 +3282,6 @@ Duration: 3:04
 URLs:
 - https://music.nintendo.com/shared/en-US/US/tracks/a411b361-1b04-447b-bb7f-b7c1e5a217ab/
 - https://www.youtube.com/watch?v=Zqa2mgjbOIM
----
-Track: Disco Descent
-Artists:
-- Crypt of the Necrodancer
-- Danny Baranowsky
-Duration: 3:00
-URLs:
-- https://dbsoundworks.bandcamp.com/track/disco-descent-1-1
 ---
 Track: Dissonance
 Directory: dissonance-quincy-pringle

@@ -3123,6 +3123,7 @@ URLs:
 Artist: Cool and New Music Team
 ---
 Artist: Cool and New Web Comic
+Credit Artworks As From Artist: true
 Context Notes: |-
     For crediting visual elements that are lifted directly from Cool and New Web Comic. Most notably, the track art for some latter CANMT tracks are simply screenshots of the web comic.
 ---
@@ -4018,6 +4019,7 @@ Artist: desaturatedWreck
 Artist: Destradious
 ---
 Artist: Desynced
+Credit Artworks As From Artist: true
 URLs:
 - https://desynced.bandcamp.com/
 - https://mspfa.com/?s=28296&p=1
@@ -6580,6 +6582,7 @@ URLs:
 - https://wwwspadesslickvevo.straw.page/
 ---
 Artist: Homestuck
+Credit Artworks As From Artist: true
 Context Notes: |-
     For crediting visual elements that are lifted directly from Homestuck, MS Paint Adventures, or related official media. Most notably, the track art for many official Homestuck songs are simply screenshots of the comic.
 ---
@@ -11280,8 +11283,6 @@ Artist: Oasis
 Artist: Oc Department
 URLs:
 - https://www.tiktok.com/@oc_department
----
-Artist: Oceanfalls
 ---
 Artist: Octopimp
 Aliases:
@@ -16208,6 +16209,7 @@ URLs:
 - https://bsky.app/profile/vastonik.bsky.social
 ---
 Artist: Vast Error
+Credit Artworks As From Artist: true
 ---
 Artist: VasTheShaman
 ---

@@ -4709,15 +4709,6 @@ Duration: 1:57
 URLs:
 - https://www.youtube.com/watch?v=XoGCokTDSyA
 ---
-Track: Jestercore
-Artists:
-- Anima Reprise
-- Witch's Cadence
-Duration: 3:30
-URLs:
-- https://witchscadence.bandcamp.com/track/jestercore
-- https://www.youtube.com/watch?v=gTVMPg9_vIc
----
 Track: Jump Up, Super Star!
 # Officially released as an iTunes single.
 # Reference:
@@ -4831,15 +4822,6 @@ Commentary: |-
     <i>Niklink:</i> (wiki editor, 1/4/2023)
 
     While the lyrics here are from the (probably known to you) English version of the song, the Japanese version was the first version to be created (although both launched simultaneously).
----
-Track: Justice Long Overdue
-Artists:
-- Anima Reprise
-- Witch's Cadence
-Duration: 1:09
-URLs:
-- https://witchscadence.bandcamp.com/track/justice-long-overdue
-- https://www.youtube.com/watch?v=gTVMPg9_vIc
 ---
 Track: K. Rool Returns (Title Theme)
 # Reference:
@@ -6228,20 +6210,6 @@ Duration: 0:04
 URLs:
 - https://www.youtube.com/watch?v=tswKwxzzEik
 ---
-Track: Resolve
-# Official release:
-#   beatmania 6thMIX ORIGINAL SOUNDTRACK: THE UK UNDERGROUND MUSIC
-# Reference:
-#   https://vgmdb.net/album/1325
-Directory: resolve-total-science
-Always Reference By Directory: true
-Duration: 1:40
-Artists:
-- beatmania
-- Total Science
-URLs:
-- https://www.youtube.com/watch?v=le79a4KVy0g
----
 Track: Rhythm Boxing (Expert)
 # Reference:
 #   https://vgmdb.net/product/9638
@@ -7109,19 +7077,6 @@ Artists: #composer unknown
 Duration: 3:14
 URLs:
 - https://www.youtube.com/watch?v=2nRERYlmKDE
----
-Track: Thin RED Line
-# JP: Thin RED Line-アラクネ　テーマ曲
-# Official release:
-#   ブレイブルー オリジナルサウンドトラック
-# Reference:
-#   https://vgmdb.net/album/10946
-Artists:
-- BlazBlue
-- Daisuke Ishiwatari
-Duration: 4:10
-URLs:
-- https://www.youtube.com/watch?v=hrvamz7tncY
 ---
 Track: Thwomp Volcano
 # Mario & Luigi: Partners in Time, no official release
@@ -49553,7 +49508,7 @@ Commentary: |-
 
     The laugh sample is great<br>
     I've used it in like 3 songs,<br>
-    as a sound effect in Anima Reprise,<br>
+    as a sound effect in [[album:anima-reprise|Anima Reprise]],<br>
     and it will probably end up in another project I'm working on lol
 
     I'm having trouble finding the original clip I stole the laugh from, but it was some sesame street clip of some of the characters laughing<br>

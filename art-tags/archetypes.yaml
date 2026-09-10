@@ -43,6 +43,7 @@ Direct Descendant Tags:
 - John
 - John (god tier)
 - John (ghost)
+- John (dreamself)
 - Jane's grandpa
 - MALE (Homosuck)
 - June
@@ -55,6 +56,7 @@ Color: '#b536da'
 Direct Descendant Tags:
 - Rose
 - Rose (god tier)
+- Rose (dream self)
 - Roxy's mom
 - Jasprose
 - Rosebot
@@ -67,6 +69,7 @@ Color: '#e00707'
 Direct Descendant Tags:
 - Dave
 - Dave (god tier)
+- Dave (dream self)
 - Dirk's bro
 - Davesprite
 - Davepeta
@@ -80,6 +83,7 @@ Color: '#4ac925'
 Direct Descendant Tags:
 - Jade
 - Jade (dog tier)
+- Jade (dream self)
 - Jake's grandma
 - Jadesprite
 - Jaed
@@ -91,6 +95,7 @@ Color: '#00d5f2'
 Direct Descendant Tags:
 - Jane
 - Jane (god tier)
+- Jane (dream self)
 - John's nanna (archetype)
 ---
 Tag: John's nanna (archetype)
@@ -105,6 +110,7 @@ Color: '#ff6ff2'
 Direct Descendant Tags:
 - Roxy
 - Roxy (god tier)
+- Roxy (dream self)
 - Rose's mom
 - tag:jane-roxy-janestuck
 ---
@@ -113,6 +119,7 @@ Color: '#f2a400'
 Direct Descendant Tags:
 - Dirk
 - Dirk (god tier)
+- Dirk (dream self)
 - Dave's bro
 - Brobot
 - Lil Hal
@@ -124,6 +131,7 @@ Color: '#1f9400'
 Direct Descendant Tags:
 - Jake
 - Jake (god tier)
+- Jake (dream self)
 - Jade's grandpa
 ---
 Tag: AH (archetype)
@@ -134,6 +142,19 @@ Direct Descendant Tags:
 - AH (god tier)
 - AH (ghost)
 - Hussiebot
+---
+Tag: Hella Jeff (archetype)
+Color: '#4570ff'
+Direct Descendant Tags:
+- Hella Jeff
+- Hella Jeff (dream self)
+- Hecka Jef
+---
+Tag: Rise Emit (archetype)
+Color: '#ff3b3b'
+Direct Descendant Tgas:
+- Rise Emit
+- Rise Emit (dream self)
 ---
 Tag: Trolls (archetypes)
 # Description: |-
@@ -334,6 +355,7 @@ Direct Descendant Tags:
 - Kurloz
 - Kurloz (god tier)
 - Kurloz (ghost)
+- Kurloz (dream self)
 - The Grand Highblood
 ---
 Tag: Cronus (archetype)
@@ -367,6 +389,72 @@ Direct Descendant Tags:
 - Meenah (god tier)
 - Meenah (ghost)
 - The Condesce
+---
+Tag: Revnan (archetype)
+Color: '#d60000'
+Direct Descendant Tags:
+- Revnan
+- Revnan (dream self)
+---
+Tag: Steve (archetype)
+Color: '#d95701'
+Direct Descendant Tags:
+- Steve
+- Steve (dream self)
+---
+Tag: Terrem (archetype)
+Color: '#1100fc'
+Direct Descendant Tags:
+- Terrem
+- Terrem (dream self)
+---
+Tag: Glacia (archetype)
+Color: '#c99feb'
+Direct Descendant Tags:
+- Glacia
+- Glacia (dream self)
+---
+Tag: Marnix (archetype)
+Color: '#6633cc'
+Direct Descendant Tags:
+- Marnix
+- Marnix (dream self)
+---
+Tag: Aliesh (archetype)
+Color: '#ff914c'
+Direct Descendant Tags:
+- Aliesh
+- Aliesh (dream self)
+---
+Tag: Arcjec (archetype)
+Color: '#b95c00'
+Direct Descendant Tags:
+- Arcjec
+- Arcjec (dream self)
+---
+Tag: Ellsee (archetype)
+Color: '#6c8400'
+Direct Descendant Tags:
+- Ellsee
+- Ellsee (dream self)
+---
+Tag: Serpaz (archetype)
+Color: '#008b8b'
+Direct Descendant Tags:
+- Serpaz
+- Serpaz (dream self)
+---
+Tag: Laivan (archetype)
+Color: '#3796c6'
+Direct Descendant Tags:
+- Laivan
+- Laivan (dream self)
+---
+Tag: Taz (archetype)
+Color: '#a34bff'
+Direct Descendant Tags:
+- Taz
+- Taz (dream self)
 ---
 Tag: Carapacians (archetypes)
 Direct Descendant Tags:
@@ -443,6 +531,7 @@ Direct Descendant Tags:
 - Calliope
 - Calliope (god tier)
 - Calliope (ghost)
+- Calliope (dream self)
 - Alternate Calliope
 - Callie Ohpeee
 ---
@@ -451,12 +540,14 @@ Color: '#e50000'
 Direct Descendant Tags:
 - Caliborn
 - Caliborn (god tier)
+- Caliborn (dream self)
 - Lord English
 ---
-Tag: More archetypes
+Tag: More character archetypes
 Direct Descendant Tags:
 - Dad (archetype)
 - Jaspers (archetype)
+- Lil Cal (archetype)
 ---
 Tag: Dad (archetype)
 Color: '#e0e0e0'
@@ -472,6 +563,10 @@ Direct Descendant Tags:
 - Jaspers
 - Jaspersprite
 - Jasprose
+---
+Tag: Lil Cal (archetype)
+- Lil Cal
+- Lil Cal (Derse)
 
 # Location archetypes
 # These are structured in location-classifications.yaml.

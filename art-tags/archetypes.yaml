@@ -33,7 +33,6 @@ Direct Descendant Tags:
 - Roxy (archetype)
 - Dirk (archetype)
 - Jake (archetype)
-- AH (archetype)
 ---
 Tag: John (archetype)
 Color: '#666fe9'
@@ -133,15 +132,6 @@ Direct Descendant Tags:
 - Jake (god tier)
 - Jake (dream self)
 - Jade's grandpa
----
-Tag: AH (archetype)
-Color: "#e0e0e0"
-Direct Descendant Tags:
-- Andrew Hussie
-- AH
-- AH (god tier)
-- AH (ghost)
-- Hussiebot
 ---
 Tag: Hella Jeff (archetype)
 Color: '#4570ff'
@@ -565,12 +555,63 @@ Direct Descendant Tags:
 - Jasprose
 ---
 Tag: Lil Cal (archetype)
+Color: '#2ed73a'
 - Lil Cal
 - Lil Cal (Derse)
-
-# Location archetypes
-# These are structured in location-classifications.yaml.
-
+---
+Tag: Archetypes for real-life people
+Direct Descendant Tags: 
+- Andrew Hussie (archetype)
+- James Roach (archetype)
+- Michael Guy Bowman (archetype)
+- Toby Fox (archetype)
+- Veritas Unae (archetype)
+- Weird Al (archetype)
+---
+Tag: Andrew Hussie (archetype)
+Color: "#e0e0e0"
+Direct Descendant Tags:
+- Andrew Hussie (real life)
+- Andrew Hussie (Homestuck)
+- Andrew Hussie (god tier)
+- Andrew Hussie (ghost)
+- Hussiebot
+---
+Tag: James Roach (archetype)
+Color: "#"
+Direct Descendant Tags:
+- James Roach (ghost)
+- James Roach (Sburb OST)
+---
+Tag: Michael Guy Bowman (archetype)
+Color: '#681047'
+Direct Descendant Tags:
+- Michael Guy Bowman (real life)
+- Michael Guy Bowman (dream self)
+---
+Tag: Toby Fox (archetype)
+Color: '#ffffff'
+Direct Descendant Tags:
+- Toby Fox (real life)
+- Toby Fox (dream self)
+- Annoying Dog
+#- Toby Fox (dog)
+---
+Tag: Veritas Unae (archetype)
+Color: '#de3ffe'
+Direct Descendant Tags:
+- Veritas Unae (Sburb OST)
+- Veritas Unae (dream self)
+---
+Tag: Weird Al (archetype)
+Color: '#fcb931'
+Direct Descendant Tags:
+- Weird Al (Desynced)
+- Weird Al (Vast Error)
+---
+Tag: Location archetypes
+Direct Descendant Tags:
+- Recurring game locations
 ---
 Tag: Alternia (archetype)
 Color: '#8e4fee'
